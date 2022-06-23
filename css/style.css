@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+
+body{
+    background-color: #670818;
+}
+
+a{
+    color: #E27F8F;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #FFE6EA;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.menu li a{
+    padding: 0px 25px 0px 25px;
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-size: 27x;
+}
+
+.menu > li > a > img{
+    padding: 0px 100px 0px 100px;
+}
+
+.first-section{
+    background-color: #FFE6EA;
+    width: 100%;
+    height: 740px;
+    /* box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.08); */
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.content h1 {
+    width: 235px;
+    font-family: 'Fredoka One';
+    color: #E27F8F;
+    font-size: 3rem;
+    line-height: 81.07px;
+}
+
+.content img{
+    padding: 30px 50px 20px 50px;
+}
+
+.content2{
+    width: 146px;
+    margin: 0 auto;
+}
+
+.content2 button{
+    background-color: #E27F8F;
+    padding: 12px 22px 12px 22px;
+    border-radius: 40px;
+    color: #FFE6EA;
+    font-family: 'Fredoka One';
+    font-size: 20px;
+}
+
+.second-section{
+    background-color: #F4F4F4;
+
+}
