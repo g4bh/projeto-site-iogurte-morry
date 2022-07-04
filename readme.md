@@ -1,1 +1,1 @@
-# Projeto site iogurte morry
+# Projeto - site para produto fictício, o iogurte Morry
